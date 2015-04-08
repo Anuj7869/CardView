@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CardView.iml" filepath="$PROJECT_DIR$/CardView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationdrawer/navigationdrawer.iml" filepath="$PROJECT_DIR$/navigationdrawer/navigationdrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rajpath/rajpath.iml" filepath="$PROJECT_DIR$/rajpath/rajpath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rajpathacademy/rajpathacademy.iml" filepath="$PROJECT_DIR$/rajpathacademy/rajpathacademy.iml" />
+    </modules>
+  </component>
+</project>
+
